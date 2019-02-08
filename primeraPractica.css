@@ -26,6 +26,28 @@ div{
     
 }
 
+#enSoho1{
+    margin: 4.5%;
+    border: 1px solid rgb(14, 10, 235);
+    border-radius: 50px;
+    padding: 15px;
+  
+}
+
+#enSoho2{
+    margin: 4.5%;
+    border: 1px solid rgb(14, 10, 235);
+    border-radius: 50px;
+    padding: 15px;
+}
+
+#enSoho3{
+    margin: 4.5%;
+    border: 1px solid rgb(14, 10, 235);
+    border-radius: 50px;
+    padding: 15px;
+}
+
 #imagenesDeLaEpa{
     height: 10%;
     background-color: red;
@@ -42,6 +64,11 @@ body{
 }
 
 #biografiaDeLaEpa{
+    font-size: 170%;
+    text-align: center;
+}
+
+#enEstosMomentos{
     font-size: 170%;
     text-align: center;
 }
@@ -88,6 +115,47 @@ h2{
 body {
     cursor: url(nat870.cur), pointer;
  }
+
+#enSoho{
+    text-align: center;
+}
+
+#epaMundial{
+    font-size: 220%;
+    text-align: center;
+}
+
+#mundial1{
+    margin: 4.5%;
+    border: 1px solid rgb(14, 10, 235);
+    border-radius: 50px;
+    padding: 15px;
+}
+
+#mundial2{
+    margin: 4.5%;
+    border: 1px solid rgb(14, 10, 235);
+    border-radius: 50px;
+    padding: 15px;
+}
+
+#mundial3{
+    margin: 4.5%;
+    border: 1px solid rgb(14, 10, 235);
+    border-radius: 50px;
+    padding: 15px;
+}
+
+#epaFamosa{
+    text-align: center;
+}
+
+#parrafoEpaFamosa{
+    font-size: 220%;
+    text-align: center;
+}
+
+
 
 
 
